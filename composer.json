@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.1",
         "cakephp/cakephp": "^3.6",
         "league/fractal": ">=0.13.0"
     },
