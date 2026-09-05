@@ -1,5 +1,7 @@
 # FractalTransformerView plugin for CakePHP
 
+![CakePHP Fractal Transformer View](banners/cakephp-fractal-transformer-view.png)
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
 
 This plugin is a thin wrapper for `JsonView` that allows using [Fractal transformers][fractal-transformer] for your API output. What is [Fractal][fractal]?
